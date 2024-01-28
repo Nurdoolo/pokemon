@@ -1,3 +1,6 @@
+body{
+    background: #fceec9;
+}
 .box__pokemon{
 
     display: flex;
@@ -6,7 +9,7 @@
 }
 
 .box{
-    background: #8cff00;
+    background: #9edef9;
     width: 300px;
     height: 100px;
     border-radius: 20px;
