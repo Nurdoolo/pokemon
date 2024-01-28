@@ -1,0 +1,30 @@
+body{
+    background: #fceec9;
+}
+.box__pokemon{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.box{
+    background: #9edef9;
+    width: 300px;
+    height: 100px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+
+    
+}
+.name__pokemon{
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+}
+.url__pokemon{
+    align-items: center;
+}
